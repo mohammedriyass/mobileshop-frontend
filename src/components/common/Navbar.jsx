@@ -25,7 +25,7 @@ function Navbar() {
                 {/* ===== LEFT — Logo ===== */}
                 <Link to="/" className="flex-shrink-0">
                     <h1 className="font-heading text-gold text-2xl font-medium tracking-widest hover:text-gold-light transition-colors">
-                        MobileZone
+                        Royal Mobiles
                     </h1>
                 </Link>
 
